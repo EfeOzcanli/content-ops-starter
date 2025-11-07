@@ -37,6 +37,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutral
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
