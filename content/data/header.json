@@ -83,7 +83,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Order Now",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
