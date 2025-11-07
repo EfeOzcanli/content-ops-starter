@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: EVERY BITE IS A CRAFT
+      text: Haven
       color: text-dark
       type: TitleBlock
     subtitle: Every Bite is a Craft
