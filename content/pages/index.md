@@ -14,7 +14,7 @@ sections:
 
       No shortcuts. No apologies.
     actions:
-      - label: Get started
+      - label: Order Now
         altText: ''
         url: /
         showIcon: false
