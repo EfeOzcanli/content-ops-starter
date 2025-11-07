@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Cluckz Signature Sandwich
         tagline: ''
         subtitle: This is the item subtitle
         text: |
