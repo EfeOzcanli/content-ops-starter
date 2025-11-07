@@ -14,7 +14,7 @@ sections:
       - type: FeaturedItem
         title: Cluckz Signature Sandwich
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
