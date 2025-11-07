@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Haven
+      text: Haven't Tried Cluckz Signature Sandwich?
       color: text-dark
       type: TitleBlock
     subtitle: Every Bite is a Craft
