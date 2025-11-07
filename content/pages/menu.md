@@ -16,39 +16,14 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          ### **Cluckz Signature Sandwich**
+          This is the sandwich that defines Cluckz. A **single, giant, crispy
+          fried chicken thigh** — juicy on the inside and perfectly crunchy on
+          the outside — served on a warm, butter-toasted **brioche bun**. We
+          coat it in our **Signature Pink Sauce**, then finish with a **sweet +
+          tangy honey mustard drizzle** for the perfect flavor balance.
 
 
-          Meet the sandwich that defines Cluckz. We stack **double crispy fried
-          chicken** inside a soft, butter-toasted **brioche bun**, then smother
-          it in our **Signature Pink Sauce**—creamy, tangy, and packed with
-          flavor. To finish, we add a **sweet-heat honey mustard drizzle** that
-          ties it all together in one unforgettable bite.
-
-
-          Crunchy, juicy, saucy — **this is the taste that made us famous.**
-
-
-
-
-          ### **Ingredients**
-
-
-          *   Butter-toasted **brioche bun**
-
-
-          *   **Double house-battered crispy chicken** fillets
-
-
-          *   **Cluckz Signature Pink Sauce** (creamy, tangy, slightly spicy)
-
-
-          *   **Honey Mustard Drizzle** (sweet + tangy finish)
-
-
-          *   (Optional side): Pickles upon request
-
-
+          No tricks. No shortcuts. Just **big flavor** and **real chicken**.
 
         image:
           type: ImageBlock
