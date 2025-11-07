@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/cluckz_burger_420.png
+      url: /images/cluckz_burger_420_clean_white.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
