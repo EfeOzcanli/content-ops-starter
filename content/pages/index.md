@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Cluckz fried chicken
+      label: Cluckz Signature Sandwich
       color: text-primary
       type: Badge
     elementId: ''
