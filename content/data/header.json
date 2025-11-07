@@ -1,22 +1,25 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/cluckz_logo_small.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "MENU",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "style": "primary",
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "Blog",
@@ -28,64 +31,24 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "About Us",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "label": "Order Now",
+            "url": "https://order.online/business/cluckz-fried-chicken-15453133",
+            "icon": "shoppingBag",
+            "iconPosition": "left",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
