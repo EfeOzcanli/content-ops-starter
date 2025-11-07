@@ -15,8 +15,41 @@ sections:
         title: Cluckz Signature Sandwich
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          ### **Cluckz Signature Sandwich**
+
+
+          Meet the sandwich that defines Cluckz. We stack **double crispy fried
+          chicken** inside a soft, butter-toasted **brioche bun**, then smother
+          it in our **Signature Pink Sauce**—creamy, tangy, and packed with
+          flavor. To finish, we add a **sweet-heat honey mustard drizzle** that
+          ties it all together in one unforgettable bite.
+
+
+          Crunchy, juicy, saucy — **this is the taste that made us famous.**
+
+
+
+
+          ### **Ingredients**
+
+
+          *   Butter-toasted **brioche bun**
+
+
+          *   **Double house-battered crispy chicken** fillets
+
+
+          *   **Cluckz Signature Pink Sauce** (creamy, tangy, slightly spicy)
+
+
+          *   **Honey Mustard Drizzle** (sweet + tangy finish)
+
+
+          *   (Optional side): Pickles upon request
+
+
+
         image:
           type: ImageBlock
           url: >-
