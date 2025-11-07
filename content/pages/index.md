@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Order Now
         altText: ''
-        url: /
+        url: 'https://order.online/business/cluckz-fried-chicken-15453133'
         showIcon: false
         icon: arrowRight
         iconPosition: right
