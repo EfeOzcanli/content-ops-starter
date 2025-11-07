@@ -7,7 +7,7 @@ sections:
       text: EVERY BITE IS A CRAFT
       color: text-dark
       type: TitleBlock
-    subtitle: E
+    subtitle: Every Bite is a Craft
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
