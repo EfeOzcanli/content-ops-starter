@@ -32,7 +32,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/cluckz_burger_420_clean_white.png
+      url: >-
+        /images/WhatsApp Image 2025-11-07 at 14,28,53
+        (1)-Picsart-BackgroundRemover.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
