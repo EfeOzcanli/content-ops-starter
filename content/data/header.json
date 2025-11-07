@@ -46,7 +46,7 @@
             "url": "https://order.online/business/cluckz-fried-chicken-15453133",
             "icon": "shoppingBag",
             "iconPosition": "left",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button",
             "showIcon": true
         }
