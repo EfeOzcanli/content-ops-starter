@@ -53,7 +53,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/Gemini_Generated_Image_crcms3crcms3crcm.png
+          url: /images/ChatGPT Image 7 Kas 2025 16_01_47.png
           altText: Placeholder text
           styles:
             self:
