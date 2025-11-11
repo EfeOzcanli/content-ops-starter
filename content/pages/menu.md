@@ -119,8 +119,19 @@ sections:
         title: Nashville Hot Sandwich
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          This one is built for the spice lovers. A **single, giant, crispy
+          fried chicken thigh**, juicy inside and extra crunchy outside, served
+          on a warm, **butter-toasted brioche bun**. We toss it in our
+          **Nashville Hot sauce** for that bold, fiery kick, add **cool shredded
+          lettuce**, and finish with **smooth mayonnaise** to balance the heat.
+
+
+          Spicy, bold, and addictive. No gimmicks. Just **real heat** and **real
+          chicken.**
+
+
+
         image:
           type: ImageBlock
           url: /images/Adsız tasarım.png
