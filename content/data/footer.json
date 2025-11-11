@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:info@cluckzchicken.com",
             "icon": "mail",
             "type": "Social"
         }
