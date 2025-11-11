@@ -259,7 +259,9 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/Adsız tasarım.png
+          url: >-
+            /images/WhatsApp Image 2025-11-07 at 14,28,53
+            (3)-Picsart-BackgroundRemover.jpeg
           altText: Placeholder text
           styles:
             self:
