@@ -26,21 +26,6 @@ sections:
         styles:
           self:
             flexDirection: row
-      - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
-        image:
-          type: ImageBlock
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
     actions: []
     elementId: ''
     variant: small-list
