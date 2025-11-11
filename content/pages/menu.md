@@ -321,7 +321,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Fries
       color: text-dark
       styles:
         self:
