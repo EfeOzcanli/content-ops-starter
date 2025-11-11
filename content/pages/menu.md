@@ -134,7 +134,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Adsız tasarım.png
+          url: /images/Nashville.png
           altText: Placeholder text
           styles:
             self:
