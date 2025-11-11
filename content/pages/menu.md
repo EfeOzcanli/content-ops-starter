@@ -39,7 +39,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Menu
+      text: Sandwiches
       color: text-dark
       styles:
         self:
