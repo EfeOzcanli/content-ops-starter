@@ -252,10 +252,33 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Cluckz Wings
-        tagline: ''
-        subtitle: ''
-        text: |
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: >
+          Crispy on the outside, tender on the inside, and coated in flavor. Our
+          fried chicken wings are tossed in your choice of our **signature
+          sauces**:
+
+
+          • **Garlic Parmesan**
+
+
+          • **Buffalo**
+
+
+          • **Sweet Chili**
+
+
+          • **Mango Habanero**
+
+
+          Big flavor in every bite. Choose your heat, choose your style, and
+          enjoy.
+
+
+
+
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
