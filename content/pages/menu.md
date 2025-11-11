@@ -189,10 +189,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          Crispy, juicy, and made fresh. Our **hand-breaded chicken tenders**
-          are served plain — no sauce and no spice — so you can enjoy the pure
-          crunch and real chicken flavor. Perfect for dipping in any of our
-          house-made sauces.
+          Crispy, juicy, and made fresh. Our **hand breaded chicken tenders**
+          are served plain with no sauce and no spice so you get pure crunch and
+          real chicken flavor. Pair them with any of our **handmade house
+          sauces** for a seriously delicious combo.
 
 
           Available in **4, 8, or 12 pieces**.
