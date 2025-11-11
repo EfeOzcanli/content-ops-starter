@@ -188,8 +188,20 @@ sections:
         title: Cluckz Tenders
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Crispy, juicy, and made fresh. Our **hand-breaded chicken tenders**
+          are served plain — no sauce and no spice — so you can enjoy the pure
+          crunch and real chicken flavor. Perfect for dipping in any of our
+          house-made sauces.
+
+
+          Available in **4, 8, or 12 pieces**.
+
+
+          Need more for a group or catering? **Contact us for larger orders.**
+
+
+
         image:
           type: ImageBlock
           url: /images/Cluckz Tenders.png
