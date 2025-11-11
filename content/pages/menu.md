@@ -185,7 +185,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Cluckz Tenders
         tagline: ''
         subtitle: This is the item subtitle
         text: |
