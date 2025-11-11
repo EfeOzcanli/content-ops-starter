@@ -84,14 +84,18 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          This is our take on the everyday classic. A single, giant, crispy
-          fried chicken thigh — tender, juicy, and full of flavor — served on a
-          warm, butter-toasted brioche bun. We layer it with creamy chipotle
-          mayo, melt cheddar cheese over the top, and finish with crisp pickles
-          for the perfect bite every time.
+          This is our take on the everyday classic. A **single, giant, crispy
+          fried chicken thigh**, tender on the inside and perfectly crunchy on
+          the outside, served on a warm, **butter-toasted brioche bun**. We
+          layer it with **creamy chipotle mayo**, melt **cheddar cheese** right
+          over the chicken, and finish with **crisp pickles** for clean, bold
+          flavor in every bite.
 
 
-          No fuss. No overload. Just clean, bold flavor done right.
+          No fuss. No shortcuts. Just **simple flavor done right** and **real
+          chicken.**
+
+
 
         image:
           type: ImageBlock
