@@ -275,11 +275,6 @@ sections:
 
           Big flavor in every bite. Choose your heat, choose your style, and
           enjoy.
-
-
-
-
-          Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
           url: >-
