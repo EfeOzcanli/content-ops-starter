@@ -188,20 +188,17 @@ sections:
         title: Cluckz Tenders
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           Crispy, juicy, and made fresh. Our **hand breaded chicken tenders**
           are served plain with no sauce and no spice so you get pure crunch and
-          real chicken flavor. Pair them with any of our **handmade house
-          sauces** for a seriously delicious combo.
+          real chicken flavor. Pair them with any of our **handmade sauces** for
+          a seriously delicious combo.
 
 
           Available in **4, 8, or 12 pieces**.
 
 
           Need more for a group or catering? **Contact us for larger orders.**
-
-
-
         image:
           type: ImageBlock
           url: /images/Cluckz Tenders.png
