@@ -245,7 +245,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Wings
       color: text-dark
       styles:
         self:
