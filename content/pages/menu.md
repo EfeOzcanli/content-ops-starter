@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: Menu
 sections:
   - type: FeaturedItemsSection
     title:
