@@ -319,13 +319,6 @@ sections:
           - pb-3
           - pr-3
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Fries
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     items: []
     actions: []
     elementId: ''
