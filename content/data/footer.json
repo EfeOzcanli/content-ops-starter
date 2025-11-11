@@ -79,6 +79,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/cluckz_chicken/",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "/mailto:info@cluckzchicken.com",
             "icon": "mail",
