@@ -80,7 +80,7 @@ sections:
             flexDirection: row
             borderColor: border-light
       - type: FeaturedItem
-        title: Feature Item One
+        title: Cluckz Basic Sandwich
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
