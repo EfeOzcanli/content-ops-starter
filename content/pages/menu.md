@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Menu
+      text: MenuCR1>IR1
       color: text-dark
       styles:
         self:
