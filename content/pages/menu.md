@@ -81,7 +81,7 @@ sections:
             borderColor: border-light
       - type: FeaturedItem
         title: Cluckz Basic Sandwich
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
