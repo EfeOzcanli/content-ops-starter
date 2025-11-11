@@ -10,22 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    items:
-      - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
-        image:
-          type: ImageBlock
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
+    items: []
     actions: []
     elementId: ''
     variant: small-list
