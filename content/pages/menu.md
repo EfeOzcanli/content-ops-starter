@@ -83,8 +83,16 @@ sections:
         title: Cluckz Basic Sandwich
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          This is our take on the everyday classic. A single, giant, crispy
+          fried chicken thigh — tender, juicy, and full of flavor — served on a
+          warm, butter-toasted brioche bun. We layer it with creamy chipotle
+          mayo, melt cheddar cheese over the top, and finish with crisp pickles
+          for the perfect bite every time.
+
+
+          No fuss. No overload. Just clean, bold flavor done right.
+
         image:
           type: ImageBlock
           url: /images/ChatGPT Image 7 Kas 2025 16_01_47.png
