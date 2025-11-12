@@ -1,4 +1,8 @@
-import { defineStackbitConfig, DocumentStringLikeFieldNonLocalized, SiteMapEntry } from '@stackbit/types';
+import {
+    defineStackbitConfig,
+    DocumentStringLikeFieldNonLocalized,
+    SiteMapEntry
+} from '@stackbit/types';
 import { GitContentSource } from '@stackbit/cms-git';
 import { allModels } from 'sources/local/models';
 
@@ -17,7 +21,13 @@ const gitContentSource = new GitContentSource({
 export const config = defineStackbitConfig({
     stackbitVersion: '~0.7.0',
     ssgName: 'nextjs',
-    nodeVersion: '18',
+
+    // 🔹 Burayı 18'den 20'ye çektik
+    nodeVersion: '20',
+
+    // 🔹 Visual editor preview server için dev komutu
+    devCommand: 'node_modules/.bin/next dev --port {PORT} --hostname 127.0.0.1',
+
     styleObjectModelName: 'ThemeStyle',
     contentSources: [gitContentSource],
     presetSource: {
@@ -25,33 +35,41 @@ export const config = defineStackbitConfig({
         presetDirs: ['sources/local/presets']
     },
     siteMap: ({ documents, models }): SiteMapEntry[] => {
-        const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
-        return documents
+        const pageModels = models
+            .filter((model) => model.type === 'page')
+            .map((model) => model.name);
+
+        const entries = documents
             .filter((document) => pageModels.includes(document.modelName))
-            .map((document) => {
+            .map<SiteMapEntry | null>((document) => {
                 let slug = (document.fields.slug as DocumentStringLikeFieldNonLocalized)?.value;
                 if (!slug) return null;
-                /* Remove the leading slash in order to generate correct urlPath
-                regardless of whether the slug is '/', 'slug' or '/slug' */
+
+                // Başındaki / işaretlerini sil
                 slug = slug.replace(/^\/+/, '');
+
                 switch (document.modelName) {
                     case 'PostFeedLayout':
                         return {
                             urlPath: '/blog',
-                            document: document
+                            document
                         };
                     case 'PostLayout':
                         return {
                             urlPath: `/blog/${slug}`,
-                            document: document
+                            document
                         };
                     default:
                         return {
                             urlPath: `/${slug}`,
-                            document: document
+                            document
                         };
                 }
-            });
+            })
+            // null dönenleri ayıklıyoruz
+            .filter((entry): entry is SiteMapEntry => entry !== null);
+
+        return entries;
     }
 });
 
