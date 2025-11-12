@@ -331,8 +331,11 @@ sections:
         title: Truffle Oil + Garlic Parmesan Fries
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Golden crispy fries tossed with **truffle oil**, **garlic**, and
+          **freshly grated parmesan**. Rich, aromatic, and full of flavor in
+          every bite. A simple upgrade that tastes anything but simple.
+
         image:
           type: ImageBlock
           url: /images/Garlic Parmesan Fries - Menu.png
