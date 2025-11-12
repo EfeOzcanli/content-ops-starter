@@ -398,7 +398,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Adsız tasarım (1).png
+          url: /images/Fries clean.png
           altText: Placeholder text
           styles:
             self:
