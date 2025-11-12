@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Adsız (100 x 100 piksel).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "###### *Every Bite is a Craft*\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,12 +61,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
@@ -79,8 +73,22 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/https://www.facebook.com/61583705990043",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/cluckz_chicken/",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
-            "url": "/",
+            "url": "/mailto:info@cluckzchicken.com",
             "icon": "mail",
             "type": "Social"
         }

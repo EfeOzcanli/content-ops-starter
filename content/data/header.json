@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "MENU",
-            "url": "/pricing",
+            "url": "/menu",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
