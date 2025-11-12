@@ -253,7 +253,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cluckz Wings
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Crispy on the outside, tender on the inside, and coated in flavor. Our
