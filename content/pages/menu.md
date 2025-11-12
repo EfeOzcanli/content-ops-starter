@@ -362,7 +362,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/Overloaded Fries.png
+          url: /images/Adsız tasarım.png
           altText: Placeholder text
           styles:
             self:
