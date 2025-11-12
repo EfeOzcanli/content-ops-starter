@@ -328,7 +328,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Truffle Oil + Garlic Parmesan Fries
         tagline: ''
         subtitle: This is the item subtitle
         text: |
