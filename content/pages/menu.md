@@ -398,7 +398,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Fries clean.png
+          url: /images/fries cleaner.png
           altText: Placeholder text
           styles:
             self:
