@@ -358,8 +358,15 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          A full stack of flavor. **Golden crispy fries** covered in **warm
+          cheese sauce**, topped with **hand breaded Cluckz tenders**, and
+          finished with our **sriracha aioli** and **Signature Pink Sauce**.
+
+
+          Comfort food taken to the next level, every bite loaded and
+          satisfying.
+
         image:
           type: ImageBlock
           url: /images/Adsız tasarım.png
