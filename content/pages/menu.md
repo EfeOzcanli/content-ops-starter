@@ -389,8 +389,13 @@ sections:
         title: French Fries
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Golden, crispy, and lightly seasoned. Simple and satisfying on their
+          own, or perfect for dipping in any of our **handmade sauces**.
+
+
+          A classic done right.
+
         image:
           type: ImageBlock
           url: /images/Adsız tasarım (1).png
