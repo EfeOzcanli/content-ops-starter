@@ -369,7 +369,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Adsız tasarım.png
+          url: /images/Overloaded Fries.png
           altText: Placeholder text
           styles:
             self:
