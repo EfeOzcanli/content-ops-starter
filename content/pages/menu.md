@@ -330,7 +330,7 @@ sections:
       - type: FeaturedItem
         title: Truffle Oil + Garlic Parmesan Fries
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
