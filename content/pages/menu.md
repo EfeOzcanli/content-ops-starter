@@ -254,7 +254,7 @@ sections:
       - type: FeaturedItem
         title: Cluckz Wings
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Crispy on the outside, tender on the inside, and coated in flavor. Our
           fried chicken wings are tossed in your choice of our **signature
