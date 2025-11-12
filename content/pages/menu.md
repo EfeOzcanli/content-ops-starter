@@ -245,7 +245,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Wings
+      text: Cluckz Wings
       color: text-dark
       styles:
         self:
