@@ -252,7 +252,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Cluckz Wings
+        title: ''
         tagline: ''
         subtitle: ''
         text: >
