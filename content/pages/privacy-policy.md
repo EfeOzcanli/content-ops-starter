@@ -49,7 +49,7 @@ sections:
               - pb-6
               - pr-6
             textAlign: left
-            borderColor: border-neutralAlt
+            borderColor: border-light
             borderWidth: 2
             borderRadius: x-small
             flexDirection: row-reverse
