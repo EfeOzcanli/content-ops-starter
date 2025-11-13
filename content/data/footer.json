@@ -92,7 +92,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
