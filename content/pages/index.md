@@ -252,7 +252,7 @@ sections:
     items:
       - title: Cluckz Signature Sandwich
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
 
           Our chef’s special, a giant crispy chicken thigh topped with our
