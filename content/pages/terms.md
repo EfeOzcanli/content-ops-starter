@@ -12,7 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/five-tips-for-starting-a-startup.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
