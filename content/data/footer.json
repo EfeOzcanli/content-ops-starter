@@ -76,7 +76,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/mailto:info@cluckzchicken.com",
+            "url": "mailto:info@cluckzchicken.com",
             "icon": "mail",
             "type": "Social"
         }
