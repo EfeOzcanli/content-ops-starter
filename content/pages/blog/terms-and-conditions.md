@@ -29,7 +29,7 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-slug: terms-and-conditions
+slug: /terms-and-conditions
 isFeatured: false
 isDraft: false
 seo:
