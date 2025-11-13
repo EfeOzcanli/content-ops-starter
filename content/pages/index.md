@@ -84,11 +84,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          I got the Nashville hot sandwich with truffle fries and it was so
+          "I got the Nashville hot sandwich with truffle fries and it was so
           delicious!!! The chicken was crispy and juicy. The fries were
           perfectly seasoned. This was the same price as other chicken
           sandwiches, but had twice the chicken and was actually a filling meal.
-          I’ll be recommending this place to everyone I know :)
+          I’ll be recommending this place to everyone I know :)"
         tagline: Testimonial 2
         subtitle: "ZM, \_Food: 5/5Service: 5/5 Atmosphere: 5/5"
         text: ''
