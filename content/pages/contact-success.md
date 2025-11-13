@@ -14,18 +14,16 @@ sections:
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
+        text: >
+          Thanks for reaching out to Cluckz.
 
 
+          Whether it's feedback, catering, or something else — we’ll get back to
+          you shortly.
 
 
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+          In the meantime, check out our menu or follow us on social media for
+          updates!
         image:
           type: ImageBlock
           altText: Faux Fur Throw
