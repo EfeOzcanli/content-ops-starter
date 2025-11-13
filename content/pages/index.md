@@ -151,7 +151,7 @@ sections:
           The chefs are incredibly talented — they’ve actually worked at a
           Michelin-starred restaurant before..”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'OT, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
