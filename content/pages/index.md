@@ -87,7 +87,9 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: >-
+            /images/WhatsApp Image 2025-11-07 at 14,28,53
+            (1)-Picsart-BackgroundRemover.jpeg
           styles:
             self:
               borderRadius: x-large
