@@ -27,9 +27,74 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+Welcome to Cluckz. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you visit our website (www\.cluckzchicken.com
+) or interact with our services.
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+1.  Information We Collect
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+We may collect the following types of information:
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+Personal Information: such as your name, email address, and phone number when you contact us or place an order.
+
+Order Information: details about your food orders, preferences, and delivery or pickup options.
+
+Technical Data: including your IP address, browser type, device information, and how you interact with our site (via cookies or analytics tools).
+
+2\. How We Use Your Information
+
+We use your information to:
+
+Process and fulfill your food orders.
+
+Respond to your questions, feedback, or catering inquiries.
+
+Improve our menu, services, and customer experience.
+
+Send updates, offers, or promotions (only if you opt in).
+
+Comply with legal obligations or resolve disputes.
+
+3\. Sharing of Information
+
+We respect your privacy — Cluckz does not sell or rent your personal information.
+We may share limited information with:
+
+Service providers (e.g., payment processors, delivery partners like DoorDash or Grubhub) to complete your order.
+
+Analytics providers (e.g., Google Analytics) to help us understand website traffic and performance.
+
+All partners are required to keep your data secure and use it only for the intended purpose.
+
+4\. Cookies
+
+Our website may use cookies to enhance your browsing experience. Cookies help remember your preferences and improve functionality.
+You can disable cookies in your browser settings, but some features of the site may not work as intended.
+
+5\. Data Security
+
+We take reasonable precautions to protect your personal data against loss, misuse, or unauthorized access. However, no online transmission or storage system is 100% secure, and we cannot guarantee absolute security.
+
+6\. Your Rights
+
+Depending on your location, you may have the right to:
+
+Access or request a copy of your personal information.
+
+Request correction or deletion of your data.
+
+Withdraw consent for marketing communications.
+
+To exercise these rights, contact us at info\@cluckzchicken.com.
+
+7\. Third-Party Links
+
+Our website may link to third-party platforms for delivery, payment, or social media. Cluckz is not responsible for their privacy practices — please review their policies when visiting those sites.
+
+8\. Updates to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with a revised “Last updated” date.
+
+9\. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or your data, please contact us:
+📧 info\@cluckzchicken.com
