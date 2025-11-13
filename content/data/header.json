@@ -24,7 +24,7 @@
         {
             "label": "Contact Us",
             "altText": "Blog",
-            "url": "/contact us",
+            "url": "/contactus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
