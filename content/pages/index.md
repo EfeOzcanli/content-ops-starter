@@ -250,7 +250,7 @@ sections:
       type: TitleBlock
     subtitle: Have you tried our Sandwiches?
     items:
-      - title: Feature Item One
+      - title: Cluckz Signature Sandwich
         tagline: ''
         subtitle: This is the item subtitle
         text: |
