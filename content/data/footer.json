@@ -63,7 +63,7 @@
         {
             "type": "Social",
             "altText": "Facebook link",
-            "url": "/https://www.facebook.com/61583705990043",
+            "url": "https://www.facebook.com/61583705990043",
             "icon": "facebook",
             "elementId": ""
         },
