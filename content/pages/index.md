@@ -147,8 +147,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “This is the best fried chicken place I’ve ever eaten at in my life.
+          The chefs are incredibly talented — they’ve actually worked at a
+          Michelin-starred restaurant before..”
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
