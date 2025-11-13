@@ -30,7 +30,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-slug: privacy
+slug: privacy-policy
 isDraft: false
 seo:
   type: Seo
