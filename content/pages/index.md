@@ -152,10 +152,7 @@ sections:
           Michelin-starred restaurant before..”
         tagline: Testimonial 4
         subtitle: 'OT, Food: 5/5 Service: 5/5 Atmosphere: 5/5'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
