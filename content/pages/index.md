@@ -60,7 +60,7 @@ sections:
           “Chicken tasted Fresh, Sauces were unique, and presentation was
           outstanding. Love my experience”
         tagline: Testimonial 1
-        subtitle: JW
+        subtitle: "JW -\_Food: 5/5Service: 5/5Atmosphere: 5/5"
         text: ''
         image:
           url: /images/person-placeholder-light.png
