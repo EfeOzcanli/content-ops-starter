@@ -120,7 +120,7 @@ sections:
           explained the sauces to me so well. I will definitely be coming back
           as this is now my go to chicken spot!!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'YD, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
