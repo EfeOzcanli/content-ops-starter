@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Terms and Conditions
+title: Privacy Policy
 sections:
   - type: FeaturedPostsSection
     title:
