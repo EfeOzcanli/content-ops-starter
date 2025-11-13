@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: See Menu
         altText: ''
-        url: /
+        url: /menu
         showIcon: true
         icon: arrowRight
         iconPosition: right
