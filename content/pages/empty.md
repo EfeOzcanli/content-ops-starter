@@ -8,15 +8,12 @@ sections:
       text: ''
       color: text-dark
     subtitle: 'Have a question, craving, or catering inquiry?'
-    text: >+
-      Feel free to reach out — we’d love to hear from you!
+    text: >
+      Feel free to reach out, we’d love to hear from you!
 
 
       Whether it’s feedback, recommendations, or large orders, our team’s here
       to help.
-
-
-
     actions: []
     media:
       type: FormBlock
