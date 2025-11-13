@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-slug: privacy
+slug: privacy-policy
 date: '2025-11-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
