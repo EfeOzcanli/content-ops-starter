@@ -203,7 +203,7 @@ sections:
         type: FeaturedItem
       - title: '“As a chef, I think their chicken is amazing.”'
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'SO, Company'
         text: ''
         image:
           url: /images/img-placeholder-dark.png
