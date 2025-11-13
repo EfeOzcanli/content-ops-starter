@@ -172,8 +172,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "I loved the signature sandwich, i literally devoured it in seconds.
+          The combination of sauces with the juicy chicken was sooo delicious. I
+          would recommend to anyone who wants to try a different chicken
+          sandwich. The flavors are so yummy and the sauces go so well together!
+          100% in love with this place!"
         tagline: Testimonial 5
         subtitle: 'CS, Food: 5/5 Service: 5/5 Atmosphere: 5/5'
         text: ''
