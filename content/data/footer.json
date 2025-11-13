@@ -68,7 +68,7 @@
                 "type": "Link",
                 "label": "Terms and Conditions",
                 "altText": "",
-                "url": "/privacy-policy",
+                "url": "/terms-and-conditions",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
