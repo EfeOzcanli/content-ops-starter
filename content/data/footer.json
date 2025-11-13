@@ -70,7 +70,7 @@
         {
             "type": "Social",
             "altText": "Instagram link",
-            "url": "/https://www.instagram.com/cluckz_chicken/",
+            "url": "https://www.instagram.com/cluckz_chicken/",
             "icon": "instagram",
             "elementId": ""
         },
