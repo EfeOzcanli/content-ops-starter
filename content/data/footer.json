@@ -90,7 +90,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
