@@ -242,7 +242,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Best Chicken in Town
       color: text-primary
       styles:
         self:
