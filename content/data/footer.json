@@ -84,7 +84,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/terms",
+            "url": "/terms-and-conditions",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
