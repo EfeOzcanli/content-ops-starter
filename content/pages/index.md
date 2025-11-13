@@ -253,8 +253,12 @@ sections:
       - title: Cluckz Signature Sandwich
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+
+          Our chef’s special, a giant crispy chicken thigh topped with our
+          Signature Pink Sauce and a drizzle of honey mustard on a
+          butter-toasted brioche bun.
+
         image:
           url: >-
             /images/WhatsApp Image 2025-11-07 at 14,28,53
