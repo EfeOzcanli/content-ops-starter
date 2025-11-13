@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: $ 88 – $ 176
         text: >
           Thanks for reaching out to Cluckz.
