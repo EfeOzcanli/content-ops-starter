@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Thank You!
+      text: "We Got Your Message! \U0001F357"
       color: text-dark
       styles:
         self:
