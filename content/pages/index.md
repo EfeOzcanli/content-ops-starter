@@ -90,7 +90,7 @@ sections:
           sandwiches, but had twice the chicken and was actually a filling meal.
           I’ll be recommending this place to everyone I know :)"
         tagline: Testimonial 2
-        subtitle: "ZM, \_Food: 5/5Service: 5/5 Atmosphere: 5/5"
+        subtitle: "ZM, \_Food: 5/5 Service: 5/5 Atmosphere: 5/5"
         text: ''
         image:
           url: /images/person-placeholder-light.png
