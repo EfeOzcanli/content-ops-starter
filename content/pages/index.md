@@ -281,7 +281,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/ChatGPT Image 7 Kas 2025 16_01_47.png
           altText: Placeholder image
           styles:
             self:
