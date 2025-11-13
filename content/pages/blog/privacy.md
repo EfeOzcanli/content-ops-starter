@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-slug: five-tips-for-starting-a-startup
+slug: privacy
 date: '2025-11-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
