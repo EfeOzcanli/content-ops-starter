@@ -121,7 +121,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: terms
+slug: terms-and-conditions
 isDraft: false
 seo:
   type: Seo
