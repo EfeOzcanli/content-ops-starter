@@ -281,7 +281,7 @@ sections:
         type: FeaturedItem
       - title: Cluckz Basic Sandwich
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           A big, golden fried chicken thigh layered with chipotle mayo, melted
           cheddar, and crunchy pickles for pure, classic flavor.
