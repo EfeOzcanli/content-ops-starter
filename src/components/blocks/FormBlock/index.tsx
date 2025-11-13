@@ -15,9 +15,36 @@ export default function FormBlock(props) {
     'data-sb-field-path': fieldPath
   } = props;
 
+  const formRef = React.useRef<HTMLFormElement | null>(null);
+
   if (fields.length === 0) {
     return null;
   }
+
+  async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+
+    if (!formRef.current) return;
+
+    const formData = new FormData(formRef.current);
+    const entries = Array.from(formData.entries()) as [string, string][];
+    const body = new URLSearchParams(entries).toString();
+
+    try {
+      await fetch('/__forms.html', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body
+      });
+
+      window.location.href = '/contact-success';
+    } catch (err) {
+      console.error('Form submit error', err);
+      alert('An error occurred while sending the message.');
+    }
+  }
+
+  const formName = elementId || 'contact-form';
 
   return (
     <form
@@ -41,16 +68,14 @@ export default function FormBlock(props) {
           ? mapStyles({ borderRadius: styles?.self?.borderRadius })
           : undefined
       )}
-      name={elementId || 'contact-form'}
-      id={elementId || 'contact-form'}
+      name={formName}
+      id={formName}
       method="POST"
-      action="/contact-success"
-      data-netlify="true"
-      data-netlify-honeypot="bot-field"
+      onSubmit={handleSubmit}
+      ref={formRef}
       data-sb-field-path={fieldPath}
     >
-      {/* Netlify için zorunlu hidden alanlar */}
-      <input type="hidden" name="form-name" value={elementId || 'contact-form'} />
+      <input type="hidden" name="form-name" value={formName} />
       <input type="hidden" name="bot-field" />
 
       <div
