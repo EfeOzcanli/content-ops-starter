@@ -282,8 +282,9 @@ sections:
       - title: Cluckz Basic Sandwich
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          A big, golden fried chicken thigh layered with chipotle mayo, melted
+          cheddar, and crunchy pickles for pure, classic flavor.
         image:
           url: /images/ChatGPT Image 7 Kas 2025 16_01_47.png
           altText: Placeholder image
