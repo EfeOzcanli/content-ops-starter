@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Request
+      text: Thank You!
       color: text-dark
       styles:
         self:
