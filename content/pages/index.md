@@ -201,9 +201,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+      - title: '“As a chef, I think their chicken is amazing.”'
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: ''
