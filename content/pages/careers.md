@@ -10,12 +10,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Cluckz was founded by three partners who share one mission: to bring the
+      best, boldest, and most flavorful chicken to town. One of our founders is
+      a highly talented chef who has worked in Michelin-star restaurants and
+      brings world-class technique to every item on our menu. The other two
+      partners come from strong business backgrounds, combining experience,
+      creativity, and vision to build something truly special. At Cluckz,
+      everything is handmade, crafted fresh, and prepared with passion. We’re
+      here to raise the bar for what great chicken should taste like.
+
     actions: []
     colors: bg-neutral-fg-dark
     styles:
