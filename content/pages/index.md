@@ -307,8 +307,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Crispy, spicy perfection, fried chicken tossed in Nashville hot sauce,
+          topped with creamy mayo and fresh lettuce for heat lovers.
         image:
           url: /images/Nashville.png
           altText: Placeholder image
