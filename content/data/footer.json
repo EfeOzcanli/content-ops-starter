@@ -113,14 +113,6 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms and Conditions",
-            "url": "/terms-and-conditions",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Privacy Policy",
             "url": "/privacy-policy",
             "icon": "arrowRight",
