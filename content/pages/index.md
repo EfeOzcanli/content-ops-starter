@@ -114,8 +114,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "The chicken sandwich are so delicious, best chicken I've ever had.
+          The chicken is cooked so well its so juicy yet so crispy. They have a
+          variety of yummy sauces. The gentleman who work there were so nice and
+          explained the sauces to me so well. I will definitely be coming back
+          as this is now my go to chicken spot!!"
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
