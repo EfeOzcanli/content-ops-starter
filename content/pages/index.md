@@ -176,10 +176,7 @@ sections:
           that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'CS, Food: 5/5 Service: 5/5 Atmosphere: 5/5'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
