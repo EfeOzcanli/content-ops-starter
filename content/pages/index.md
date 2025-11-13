@@ -125,7 +125,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/Nashville.png
+          url: /images/NB.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
