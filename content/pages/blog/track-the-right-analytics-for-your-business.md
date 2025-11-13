@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Track the right analytics for your business
+title: Terms & Conditions
 slug: track-the-right-analytics-for-your-business
 date: '2023-02-20'
 excerpt: >-
