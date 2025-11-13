@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >+
       Cluckz was founded by three partners who share one mission: to bring the
       best, boldest, and most flavorful chicken to town. One of our founders is
