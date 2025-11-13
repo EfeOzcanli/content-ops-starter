@@ -14,10 +14,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          TERMS AND CONDITIONS
-
-
+        text: >
           Last updated: November 2025
 
 
@@ -82,9 +79,6 @@ sections:
               Email: [info@cluckzchicken.com]()
 
           © 2025 Cluckz. All rights reserved.
-
-
-
         image:
           type: ImageBlock
           altText: Faux Fur Throw
