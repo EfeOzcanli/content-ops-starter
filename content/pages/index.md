@@ -203,7 +203,7 @@ sections:
         type: FeaturedItem
       - title: '“As a chef, I think their chicken is amazing.”'
         tagline: Testimonial 6
-        subtitle: 'SO, Company'
+        subtitle: "SO,\_Food: 5/5 Service: 5/5 Atmosphere: 5/5"
         text: ''
         image:
           url: /images/img-placeholder-dark.png
