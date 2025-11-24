@@ -355,7 +355,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Overloaded Fries
         tagline: This is the tagline
         subtitle: ''
         text: >+
