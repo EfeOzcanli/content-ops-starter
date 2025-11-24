@@ -356,7 +356,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Overloaded Fries
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           A full stack of flavor. **Golden crispy fries** covered in **warm
