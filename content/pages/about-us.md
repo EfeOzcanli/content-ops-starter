@@ -1,6 +1,6 @@
 ---
 title: About Us
-slug: careers
+slug: about-us
 sections:
   - title:
       text: About Us
